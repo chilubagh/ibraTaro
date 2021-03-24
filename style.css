@@ -1,0 +1,39 @@
+header { font-family: 'Verdana', cursive;; text-align: center; }
+
+body {
+  background-color: white
+  text-align: center; }
+h1{
+  text-align: center;
+  font-family: Verdana;
+  color: black;
+}
+h2 {
+  text-align: center;
+  font-family: Verdana;
+  color:black;
+}
+main {
+  text-align: center;
+  font-family: Arial;
+  color: black;
+}
+p { text-align: center;
+  font-family: Times;
+  color: red;
+
+}
+img{
+  width: 50%
+  height: auto;
+  max-width: 500%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  position: vertical;
+
+}
+.center{
+  display: block;
+
+}
